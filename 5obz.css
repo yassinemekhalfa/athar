@@ -1,0 +1,46 @@
+nav,
+.nav__container{
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.nav__container {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+   }
+
+   .nav__menu a {
+    font-size: 0.9rem;
+    transition: all 400ms ease;
+
+   }
+
+   .nav__menu a:hover {
+    color: #f00;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav__container{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
